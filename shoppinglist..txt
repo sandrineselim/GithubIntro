@@ -6,3 +6,4 @@ oranges
 cherries
 chocolate
 celery
+cereal
