@@ -7,3 +7,4 @@ cherries
 chocolate
 celery
 cereal
+cucumbers
